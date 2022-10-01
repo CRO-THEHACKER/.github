@@ -52,5 +52,7 @@ Hello
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=CRO-THEHACKER&theme=tokyonight_duo&hide_border=true)](https://git.io/streak-stats)
 
+![CRO-THEHACKER Stats](https://github-readme-stats.vercel.app/api?username=CRO-THEHACKER&show_icons=true&theme=tokyonight)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CRO-THEHACKER&layout=compact&theme=tokyonight_duo)](https://github.com/anuraghazra/github-readme-stats)
 </div>
